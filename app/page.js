@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "AutoFix | Reliable Auto Repair Shop",
+  title: "AutoTek | Reliable Auto Repair Shop",
   description:
-    "AutoFix is your trusted local auto repair shop offering top-notch car services, parts, and expert mechanics. Fast, affordable, and reliable auto repair solutions.",
+    "AutoTek is your trusted local auto repair shop offering top-notch car services, parts, and expert mechanics. Fast, affordable, and reliable auto repair solutions.",
   keywords: [
     "auto repair shop",
     "car services",
@@ -10,11 +10,11 @@ export const metadata = {
     "vehicle maintenance",
   ],
   openGraph: {
-    title: "AutoFix | Your Trusted Auto Repair Partner",
+    title: "AutoTek | Your Trusted Auto Repair Partner",
     description:
-      "AutoFix offers premium car maintenance, repair services, and parts with expert mechanics and great customer support.",
+      "AutoTek offers premium car maintenance, repair services, and parts with expert mechanics and great customer support.",
     url: "https://autofix-shop.vercel.app/",
-    siteName: "AutoFix",
+    siteName: "AutoTek",
     images: [
       {
         url: "/images/herocover.jpg",
