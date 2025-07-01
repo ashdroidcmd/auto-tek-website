@@ -30,9 +30,9 @@ export const metadata = {
 
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
-// import Services from "@/components/Services";
-// import CarBrands from "@/components/CarBrands";
-// import CarParts from "@/components/CarParts";
+import Services from "../components/Services";
+import CarBrands from "../components/CarBrands";
+import CarParts from "@/components/CarParts";
 // import Location from "@/components/Location";
 // import ContactForm from "@/components/ContactForm";
 // import Footer from "@/components/Footer";
@@ -43,10 +43,10 @@ export default function Home() {
       <Navbar />
       <main>
         <Hero />
-        {/* <Services />
+        <Services />
         <CarBrands />
         <CarParts />
-        <Location />
+        {/* <Location />
         <ContactForm /> */}
       </main>
       {/* <Footer /> */}
