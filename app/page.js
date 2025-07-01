@@ -33,9 +33,9 @@ import Hero from "../components/Hero";
 import Services from "../components/Services";
 import CarBrands from "../components/CarBrands";
 import CarParts from "@/components/CarParts";
-// import Location from "@/components/Location";
-// import ContactForm from "@/components/ContactForm";
-// import Footer from "@/components/Footer";
+import Location from "@/components/Location";
+import ContactForm from "@/components/ContactForm";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -46,10 +46,10 @@ export default function Home() {
         <Services />
         <CarBrands />
         <CarParts />
-        {/* <Location />
-        <ContactForm /> */}
+        <Location />
+        <ContactForm />
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 }
